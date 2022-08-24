@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @diedrieb
+- 👀 I’m interested in cybersecurity 
+- 🌱 I’m currently learning scriting language
